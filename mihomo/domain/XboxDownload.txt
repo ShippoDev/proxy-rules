@@ -1,0 +1,8 @@
+assets1.xboxlive.cn
+assets1.xboxlive.com
+assets2.xboxlive.cn
+assets2.xboxlive.com
+dl.delivery.mp.microsoft.com
+tlu.dl.delivery.mp.microsoft.com
+xvcf1.xboxlive.com
+xvcf2.xboxlive.com
