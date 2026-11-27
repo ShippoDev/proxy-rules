@@ -1,0 +1,8 @@
+blizzard.gcdn.cloudn.co.kr
+blzddist1-a.akamaihd.net
+blzddistkr1-a.akamaihd.net
+eu.cdn.blizzard.com
+kr.cdn.blizzard.com
+level3.blizzard.com
+level3.ssl.blizzard.com
+us.cdn.blizzard.com
